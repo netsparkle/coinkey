@@ -1,12 +1,11 @@
 {
   "name": "coinkey",
   "version": "3.0.0",
-  "description": "JavaScript component for private keys, public keys, and addresess for crypto currencies such as Bitcoin, Litecoin, and Dogecoin",
+  "description": "JavaScript component for private keys, public keys, and addresess for Jengascoin",
   "keywords": [
     "cryptography",
     "crypto",
-    "bitcoin",
-    "litecoin",
+    "jengascoin",
     "elliptical",
     "curve"
   ],
@@ -21,7 +20,7 @@
     "standard": "*"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/coinkey",
+    "url": "https://github.com/netsparkle/coinkey",
     "type": "git"
   },
   "main": "./lib/coinkey.js",
