@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "coininfo": "^0.3.1",
+    "coininfo": "netsparkle/coininfo",
     "coveralls": "^2.10.0",
     "istanbul": "^0.2.10",
     "mocha": "*",
@@ -25,7 +25,7 @@
   },
   "main": "./lib/coinkey.js",
   "dependencies": {
-    "coinstring": "^2.0.0",
+    "coinstring": "^netsparkle/coinstring",
     "eckey": "^1.0.0",
     "inherits": "^2.0.1",
     "secure-random": "^1.0.0"
